@@ -52,5 +52,5 @@ Notes
 - Streamlit Cloud**: Push this repo to GitHub and deploy directly from the Streamlit dashboard.
 - Hugging Face Spaces**: Create a Space (Streamlit), point it to your repo.
 
-License
+License:
 MIT 
